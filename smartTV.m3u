@@ -450,11 +450,11 @@ http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn
 http://fm1077.serv00.net/Smart.php?id=mtvhd_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",TLC旅遊生活
 http://fm1077.serv00.net/Smart.php?id=tlc_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",東森新聞
+#EXTINF:-1  tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="臺灣 Taiwan" ,東森新聞
 http://fm1077.serv00.net/Smart.php?id=ettvnews
 #EXTINF:-1 group-title="臺灣 Taiwan",TVBS HD
 http://fm1077.serv00.net/Smart.php?id=tvbs
-#EXTINF:-1 group-title="臺灣 Taiwan",TVBS新聞台
+#EXTINF:-1  tvg-logo="https://assets.livednow.com/logo/TVBS新聞台.png"group-title="臺灣 Taiwan",TVBS新聞台
 http://fm1077.serv00.net/Smart.php?id=tvbs_n
 #EXTINF:-1 group-title="臺灣 Taiwan",TVBS歡樂台
 http://fm1077.serv00.net/Smart.php?id=tvbshuanle_twn
