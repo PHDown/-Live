@@ -432,17 +432,17 @@ http://192.9.178.181:5000/4gtv/286
 
 
 
-#EXTINF:-1 group-title="臺灣 Taiwan",AXN
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",AXN
 http://fm1077.serv00.net/Smart.php?id=axn_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",CINEMAX
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",CINEMAX
 http://fm1077.serv00.net/Smart.php?id=cinemax_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",EYE戲劇
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",EYE戲劇
 http://fm1077.serv00.net/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",EYE旅遊
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",EYE旅遊
 http://fm1077.serv00.net/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",HBO
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",HBO
 http://fm1077.serv00.net/Smart.php?id=hbohd_twn
-#EXTINF:-1 group-title="臺灣 Taiwan",HBO Family
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/e.xml.gz" group-title="臺灣 Taiwan",HBO Family
 http://fm1077.serv00.net/Smart.php?id=fyi_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",好萊塢電影台
 http://fm1077.serv00.net/Smart.php?id=hollywoodmovies_twn
