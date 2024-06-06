@@ -37,7 +37,7 @@ https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" group-title="卫视",湖南卫视高清
 https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视高清
-辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
+https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
 
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV綜合", 民視
