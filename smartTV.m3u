@@ -34,7 +34,7 @@ http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
-#EXTINF:-1 tvg-id="ktsf26" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",ktsf26
+#EXTINF:-1 group-title="USA",ktsf26
 https://phdown.serv00.net/ublive.php?id=1517
 #EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",◎美国中文电视 (406p) [Not 24/7]
 #https://jpts.sinovision.net/livestream.m3u8
@@ -47,11 +47,11 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY)
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",FOX
+#EXTINF:-1 group-title="USA",FOX
 https://phdown.serv00.net/ublive.php?id=1218
-#EXTINF:-1 tvg-id="FOX NOW" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",FOX NOW
+#EXTINF:-1 group-title="USA",FOX NOW
 https://phdown.serv00.net/ublive.php?id=1506
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",CNN USA
+#EXTINF:-1 group-title="USA",CNN USA
 https://phdown.serv00.net/ublive.php?id=1102
 
 
