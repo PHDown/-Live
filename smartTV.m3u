@@ -34,6 +34,17 @@ http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
+#EXTINF:-1 tvg-id="SinoVision.cn" tvg-logo="https://i.imgur.com/ir3jkyL.png" group-title="USA",◎美国中文电视 (406p) [Not 24/7]
+#https://jpts.sinovision.net/livestream.m3u8
+https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17448/128x128.png" group-title="USA",SinoTV 華語電視 (LA)
+#web# |KXLA 44.2|KCNZ-CD 28.4|SINO TV NY| https://www.nysino.com/sinotv/ 
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17446/128x128.png" group-title="USA",SinoTV 華語電視 (SFO)
+ http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
+#EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY) 粤語
+#web# https://www.nysino.com/sinotv/
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 
 
 #EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="4GTV綜合", 民視
