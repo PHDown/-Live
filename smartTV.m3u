@@ -236,6 +236,18 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY)
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="USA",NBA
+https://histar.zapi.us.kg/?id=nba
+#EXTINF:-1 group-title="USA",WWE
+https://histar.zapi.us.kg/?id=wwe
+#EXTINF:-1 group-title="USA",ESPN
+https://histar.zapi.us.kg/?id=espn
+#EXTINF:-1 group-title="USA",ESPN 2
+https://histar.zapi.us.kg/?id=espn2
+#EXTINF:-1 group-title="USA",ESPN 3
+https://histar.zapi.us.kg/?id=espn3
+#EXTINF:-1 group-title="USA",ESPN 4
+https://histar.zapi.us.kg/?id=espn4
 #EXTINF:-1 group-title="USA",FOX
 https://phdown.serv00.net/ublive.php?id=1218
 #EXTINF:-1 group-title="USA",FOX NOW
