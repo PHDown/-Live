@@ -236,6 +236,26 @@ http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 #EXTINF:-1 tvg-id="SinoTV" tvg-logo="https://d1pv4des13xhh9.cloudfront.net/prod/sized/17444/128x128.png" group-title="USA",SinoTV 華語電視 (NY)
 #web# https://www.nysino.com/sinotv/
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="USA",新时代电视
+https://histar.zapi.us.kg/?id=fairchildtv
+#EXTINF:-1 group-title="USA",新时代电视二台
+https://histar.zapi.us.kg/?id=fairchildtv2
+#EXTINF:-1 group-title="USA",城市电视
+https://histar.zapi.us.kg/?id=talentvisiontv
+#EXTINF:-1 group-title="USA",HBO HD
+https://histar.zapi.us.kg/?id=hbo-hd
+#EXTINF:-1 group-title="USA",HBO Hits HD
+https://histar.zapi.us.kg/?id=hbo-hits-hd
+#EXTINF:-1 group-title="USA",HBO Family HD
+https://histar.zapi.us.kg/?id=hbo-family
+#EXTINF:-1 group-title="USA",HBO Signature HD
+https://histar.zapi.us.kg/?id=hbo-signature
+#EXTINF:-1 group-title="USA",Cinemax
+https://histar.zapi.us.kg/?id=cinemax
+#EXTINF:-1 group-title="USA",CNN International
+https://histar.zapi.us.kg/?id=cnn-international
+#EXTINF:-1 group-title="USA",好莱坞电影
+https://histar.zapi.us.kg/?id=hollywood-movie
 #EXTINF:-1 group-title="USA",NBA
 https://histar.zapi.us.kg/?id=nba
 #EXTINF:-1 group-title="USA",WWE
