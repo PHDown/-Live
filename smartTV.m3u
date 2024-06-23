@@ -33,6 +33,25 @@ https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV17
 https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+#EXTM3U name="广东电信IPTV"
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
+rtp://239.77.1.237:5146
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+rtp://239.77.0.244:5146
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
+rtp://239.77.0.245:5146
+#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
+rtp://239.77.0.252:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+rtp://239.253.43.99:5146
+#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
+rtp://239.77.1.98:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.0.194:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
+rtp://239.77.0.174:5146
+#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
+rtp://239.77.1.180:5146
 
 #EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 
