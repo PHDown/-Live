@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:49 group-title="TVB" tvg-id="tvb/null" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台
+#EXTINF:49 group-title="TVB" tvg-id="tvb/null" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:50 group-title="TVB" tvg-id="tvb/4k" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台 4K
+#EXTINF:50 group-title="TVB" tvg-id="tvb/4k" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台 4K
 https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:41 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 明珠台
+#EXTINF:41 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:28 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
+#EXTINF:28 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:43 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 無線新聞台
@@ -163,7 +163,7 @@ https://mytv.btjson.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f
 #EXTINF:17 group-title="TVB" tvg-id="tvb/mytvsuper4" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER 直播足球4台
 https://mytv.btjson.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:18 group-title="TVB" tvg-id="tvb/mytvsuper5" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER 直播足球5台
+#EXTINF:18 group-title="TVB" tvg-id="tvb/mytvsuper5" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER 直播足球5台
 https://mytv.btjson.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:19 group-title="TVB" tvg-id="tvb/mytvsuper6" tvg-logo="https://assets.livednow.com/logo" provider="TVB" provider-logo="" provider-type="iptv",[TVB] myTV SUPER 直播足球6台
