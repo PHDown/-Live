@@ -7,40 +7,40 @@ https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2
 #EXTINF:50 group-title="TVB" tvg-id="tvb/4k" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台 4K
 https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:41 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 明珠台
+#EXTINF:41 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="https://assets.livednow.com/logo/明珠台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 明珠台
 https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:28 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
+#EXTINF:28 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
 https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:43 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 無線新聞台
+#EXTINF:43 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 無線新聞台
 https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:51 group-title="TVB" tvg-id="tvb/null-5" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 華語劇台
+#EXTINF:51 group-title="TVB" tvg-id="tvb/null-5" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 華語劇台
 https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:52 group-title="TVB" tvg-id="tvb/null-17" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視中文台
+#EXTINF:52 group-title="TVB" tvg-id="tvb/null-17" tvg-logo="https://assets.livednow.com/logo/鳳凰衛視中文台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視中文台
 https://mytv.btjson.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:53 group-title="TVB" tvg-id="tvb/null-18" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視資訊台
+#EXTINF:53 group-title="TVB" tvg-id="tvb/null-18" tvg-logo="https://assets.livednow.com/logo/鳳凰衛視資訊台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視資訊台
 https://mytv.btjson.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:54 group-title="TVB" tvg-id="tvb/null-19" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視香港台
+#EXTINF:54 group-title="TVB" tvg-id="tvb/null-19" tvg-logo="https://assets.livednow.com/logo/鳳凰衛視香港台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視香港台
 https://mytv.btjson.us.kg/stream/tvb/null-19/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:55 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 黃金翡翠台
+#EXTINF:55 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 黃金翡翠台
 https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:56 group-title="TVB" tvg-id="tvb/null-8" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 黃金華劇台
+#EXTINF:56 group-title="TVB" tvg-id="tvb/null-8" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 黃金華劇台
 https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:33 group-title="TVB" tvg-id="tvb/null-7" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 亞洲劇台
+#EXTINF:33 group-title="TVB" tvg-id="tvb/null-7" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 亞洲劇台
 https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:34 group-title="TVB" tvg-id="tvb/null-23" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 亞洲新聞台
+#EXTINF:34 group-title="TVB" tvg-id="tvb/null-23" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 亞洲新聞台
 https://mytv.btjson.us.kg/stream/tvb/null-23/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:35 group-title="TVB" tvg-id="tvb/null-15" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 創世電視
+#EXTINF:35 group-title="TVB" tvg-id="tvb/null-15" tvg-logo="https://assets.livednow.com/logo/創世電視.png" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 創世電視
 https://mytv.btjson.us.kg/stream/tvb/null-15/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:36 group-title="TVB" tvg-id="tvb/null-4" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 千禧經典台
@@ -283,7 +283,7 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "02kxA/Iy8otHgbvH5JnEOg", "kid": "4Gn8BWKA5Mqn0P+5kCTAWg"}], "type": "temporary"}
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=eddb8a96520c1612beeff3acae0d8200&ext_start_limit=1721811620&int_start_limit=1721811620&ts=1721811620&c=715880729
 
-#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="少兒", SUPER Kids Channel
+#EXTINF:-1 tvg-id="SUPER-Kids-Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png" group-title="MytvSuper", SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tzAAatHaSLQSzrH542qDPQ", "kid": "QlJ8qQrVJbourJl5yT07yg"}], "type": "temporary"}
