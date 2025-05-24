@@ -1,676 +1,170 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 group-title="歌星串烧",卓依婷
+https://txmov2.a.kwimgs.com/bs3/video-hls/5252041701152345508_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",姜育恒
+https://txmov2.a.kwimgs.com/bs3/video-hls/5228116320942620413_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",童安格
+https://txmov2.a.kwimgs.com/bs3/video-hls/5251760219003853218_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",魏佳艺
+https://txmov2.a.kwimgs.com/bs3/video-hls/5226427471582302532_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",云朵
+https://txmov2.a.kwimgs.com/bs3/video-hls/5246412201505505933_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",韩宝仪
+https://txmov2.a.kwimgs.com/bs3/video-hls/5250634324924434598_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",王心凌
+https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",金海心
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202783577818793385_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",任贤齐
+https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",陈瑞
+https://txmov2.a.kwimgs.com/bs3/video-hls/5204472429788093934_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",林志炫
+https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",陈淑桦
+https://txmov2.a.kwimgs.com/bs3/video-hls/5207850128833175307_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",林俊杰
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",陶喆3
+https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",汪明荃
+https://txmov2.a.kwimgs.com/bs3/video-hls/5202502102851767269_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",林忆莲
+https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",腾格尔
+https://txmov2.a.kwimgs.com/bs3/video-hls/5242471550986018227_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",许蒿
+https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",经典
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",串烧
+https://txmov2.a.kwimgs.com/bs3/video-hls/5198561450301066675_hlsb.m3u8
+#EXTINF:-1 group-title="歌星串烧",经典粤语歌
+https://www.yibababa.com/music/cantopop.webm
+#EXTINF:-1 group-title="歌星串烧",王菲十首无损歌曲精选
+https://vd4.bdstatic.com/mda-pg3m9czi01sgmas7/sc/cae_h264/1688505868106382211/mda-pg3m9czi01sgmas7.mp4
+
+#EXTINF:-1 group-title="MV",成都
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx5ei5wUoqOfenwE.mp4
+#EXTINF:-1 group-title="MV",过火
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--nW4gUokMvrzgY.mp4
+#EXTINF:-1 group-title="MV",当
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPTW4gUoz_DgdQ.mp4
+#EXTINF:-1 group-title="MV",陷阱
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
+#EXTINF:-1 group-title="MV",太想念
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwpai5wUo8ODKhQE.mp4
+#EXTINF:-1 group-title="MV",别知己
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9sG2-AUo4MTLmAQ.mp4
+#EXTINF:-1 group-title="MV",沙漠骆驼
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjbGM5gUon8K7eQ.mp4
+#EXTINF:-1 group-title="MV",兄弟难当
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg97nE4gUooPX7tQU.mp4
+#EXTINF:-1 group-title="MV",一生所爱
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
+#EXTINF:-1 group-title="MV",梅花三弄
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
+#EXTINF:-1 group-title="MV",梅花三弄我们不一样
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4Nfx9wUojcTB7Qc.mp4
+#EXTINF:-1 group-title="MV",梅花三弄等到山花开
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggcOv5wUo4pShggc.mp4
+#EXTINF:-1 group-title="MV",梅花三弄草原情哥哥
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg26rA4gUou4uf7AU.mp4
+#EXTINF:-1 group-title="MV",梅花三弄火红的萨日朗
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnaLV4gUop5aBpQY.mp4
+#EXTINF:-1 group-title="MV",梅花三弄拥抱着你离去
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
 
 
-#EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 4K
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.237:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.244:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺(4k)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.245:5146
-#EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.252:5146
-#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16 4K
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.98:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.194:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K50p
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-name="CCTV-4K" group-title="IPTV-央视",CCTV-4K 4K
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.180:5146
-#EXTM3U name="广东电信IPTV"
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.19:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.152:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.84:5146
-#EXTINF:-1 tvg-name="广东卫视" group-title="IPTV-广东电视台",广东卫视超清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.166:5146
-#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广东珠江" group-title="IPTV-广东电视台",广东珠江超清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-name="广东新闻" group-title="IPTV-广东电视台",广东新闻高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.85:5146
-#EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.167:5146
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="IPTV-广东电视台",大湾区卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-name="广东影视" group-title="IPTV-广东电视台",广东影视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-name="广东少儿" group-title="IPTV-广东电视台",广东少儿高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="IPTV-广东电视台",嘉佳卡通高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物-精选
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.19:5146
-#EXTINF:-1 tvg-name="南方购物" group-title="IPTV-广东电视台",南方购物
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.22:5146
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="IPTV-广东电视台",岭南戏曲高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.122:5146
-#EXTINF:-1 tvg-name="现代教育" group-title="IPTV-广东电视台",现代教育高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.213:5146
-#EXTINF:-1 tvg-name="广州综合" group-title="IPTV-广州电视台",广州综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州新闻" group-title="IPTV-广州电视台",广州新闻高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-name="广州影视" group-title="IPTV-广州电视台",广州影视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.73:5146
-#EXTINF:-1 tvg-name="广州法治" group-title="IPTV-广州电视台",广州法治高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.3:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.148:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.92:5146
-#EXTINF:-1 tvg-name="深圳卫视" group-title="IPTV-深圳电视台",深圳卫视超清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.130:5146
-#EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.176:5146
-#EXTINF:-1 tvg-name="深圳都市频道" group-title="IPTV-深圳电视台",深圳都市频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.124:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.7:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.177:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" group-title="IPTV-深圳电视台",深圳电视剧频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.125:5146
-#EXTINF:-1 tvg-name="深圳财经生活" group-title="IPTV-深圳电视台",深圳财经生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-name="深圳娱乐频道" group-title="IPTV-深圳电视台",深圳娱乐频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.243:5146
-#EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.8:5146
-#EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.128:5146
-#EXTINF:-1 tvg-name="深圳体育健康" group-title="IPTV-深圳电视台",深圳体育健康高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.140:5146
-#EXTINF:-1 tvg-name="深圳少儿频道" group-title="IPTV-深圳电视台",深圳少儿频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.9:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.178:5146
-#EXTINF:-1 tvg-name="深圳公共频道" group-title="IPTV-深圳电视台",深圳公共频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.126:5146
-#EXTINF:-1 tvg-name="深圳宝安频道" group-title="IPTV-深圳电视台",深圳宝安频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.67:5146
-#EXTINF:-1 tvg-name="深圳龙岗频道" group-title="IPTV-深圳电视台",深圳龙岗频道高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.223:5146
-#EXTINF:-1 tvg-name="深圳众创TV" group-title="IPTV-深圳电视台",深圳众创TV高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.247:5146
-#EXTINF:-1 tvg-name="深圳宜和购物" group-title="IPTV-深圳电视台",深圳宜和购物高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.87:5146
-#EXTINF:-1 tvg-name="韶关新闻综合" group-title="IPTV-广东地方台",韶关新闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.117:5146
-#EXTINF:-1 tvg-name="湛江新闻综合" group-title="IPTV-广东地方台",湛江新闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.141:5146
-#EXTINF:-1 tvg-name="湛江公共" group-title="IPTV-广东地方台",湛江公共高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.140:5146
-#EXTINF:-1 tvg-name="揭阳综合" group-title="IPTV-广东地方台",揭阳综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.229:5146
-#EXTINF:-1 tvg-name="揭阳生活" group-title="IPTV-广东地方台",揭阳生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.251:5146
-#EXTINF:-1 tvg-name="汕尾新闻综合" group-title="IPTV-广东地方台",汕尾新闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.25:5146
-#EXTINF:-1 tvg-name="汕尾文化生活" group-title="IPTV-广东地方台",汕尾文化生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.187:5146
-#EXTINF:-1 tvg-name="江门综合" group-title="IPTV-广东地方台",江门综合高清
-http://120.237.241.82:4000/udp/239.77.0.201:5146
-#EXTINF:-1 tvg-name="江门侨乡生活" group-title="IPTV-广东地方台",江门侨乡生活高清
-http://120.237.241.82:4000/udp/239.77.0.202:5146
-#EXTINF:-1 tvg-name="HZTV-1" group-title="IPTV-广东地方台",HZTV-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.232:5146
-#EXTINF:-1 tvg-name="HZTV-2" group-title="IPTV-广东地方台",HZTV-2高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.233:5146
-#EXTINF:-1 tvg-name="珠海-1" group-title="IPTV-广东地方台",珠海-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.155:5146
-#EXTINF:-1 tvg-name="珠海-2" group-title="IPTV-广东地方台",珠海-2高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.154:5146
-#EXTINF:-1 tvg-name="肇庆综合" group-title="IPTV-广东地方台",肇庆综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.1:5146
-#EXTINF:-1 tvg-name="肇庆生活服务" group-title="IPTV-广东地方台",肇庆生活服务高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.2:5146
-#EXTINF:-1 tvg-name="河源综合" group-title="IPTV-广东地方台",河源综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.213:5146
-#EXTINF:-1 tvg-name="河源公共" group-title="IPTV-广东地方台",河源公共高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.214:5146
-#EXTINF:-1 tvg-name="清远新闻综合" group-title="IPTV-广东地方台",清远新闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.33:5146
-#EXTINF:-1 tvg-name="清远文旅生活" group-title="IPTV-广东地方台",清远文旅生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.34:5146
-#EXTINF:-1 tvg-name="云浮综合" group-title="IPTV-广东地方台",云浮综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.253:5146
-#EXTINF:-1 tvg-name="云浮文旅" group-title="IPTV-广东地方台",云浮文旅高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.254:5146
-#EXTINF:-1 tvg-name="茂名综合" group-title="IPTV-广东地方台",茂名综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.206:5146
-#EXTINF:-1 tvg-name="茂名公共" group-title="IPTV-广东地方台",茂名公共高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.207:5146
-#EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.130:5146
-#EXTINF:-1 tvg-name="汕头综合" group-title="IPTV-广东地方台",汕头综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.45:5146
-#EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-name="汕头经济生活" group-title="IPTV-广东地方台",汕头经济生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.46:5146
-#EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.132:5146
-#EXTINF:-1 tvg-name="汕头文旅体育" group-title="IPTV-广东地方台",汕头文旅体育高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.47:5146
-#EXTINF:-1 tvg-name="佛山公共" group-title="IPTV-广东地方台",佛山公共高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山南海" group-title="IPTV-广东地方台",佛山南海高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.54:5146
-#EXTINF:-1 tvg-name="佛山顺德" group-title="IPTV-广东地方台",佛山顺德高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.55:5146
-#EXTINF:-1 tvg-name="佛山影视" group-title="IPTV-广东地方台",佛山影视高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.56:5146
-#EXTINF:-1 tvg-name="佛山综合" group-title="IPTV-广东地方台",佛山综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-name="东莞新闻综合" group-title="IPTV-广东地方台",东莞新闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.104:5146
-#EXTINF:-1 tvg-name="东莞生活资讯" group-title="IPTV-广东地方台",东莞生活资讯高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.105:5146
-#EXTINF:-1 tvg-name="中山综合" group-title="IPTV-广东地方台",中山综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.62:5146
-#EXTINF:-1 tvg-name="香山文化" group-title="IPTV-广东地方台",香山文化高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.63:5146
-#EXTINF:-1 tvg-name="潮州综合" group-title="IPTV-广东地方台",潮州综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.70:5146
-#EXTINF:-1 tvg-name="潮州民生" group-title="IPTV-广东地方台",潮州民生高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-name="徐闻综合" group-title="IPTV-广东地方台",徐闻综合高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.112:5146
-#EXTINF:-1 tvg-name="梅州-1" group-title="IPTV-广东地方台",梅州-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.123:5146
-#EXTINF:-1 tvg-name="客家生活" group-title="IPTV-广东地方台",客家生活高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.124:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.144:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.119:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1高清(CCTV -1综合高清)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.86:5146
-#EXTINF:-1 tvg-name="CCTV-1" group-title="IPTV-央视",CCTV-1超清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.129:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.158:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.17:5146
-#EXTINF:-1 tvg-name="CCTV-2" group-title="IPTV-央视",CCTV-2高清测试(CCTV -2财经高清)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.137:5146
-#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-name="CCTV-3" group-title="IPTV-央视",CCTV-3超清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.175:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.163:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.166:5146
-#EXTINF:-1 tvg-name="CCTV-4" group-title="IPTV-央视",CCTV-4高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.78:5146
-#EXTINF:-1 tvg-name="CCTV-4美洲" group-title="IPTV-央视",CCTV-4美洲高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.121:5146
-#EXTINF:-1 tvg-name="CCTV-4欧洲" group-title="IPTV-央视",CCTV-4欧洲高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.120:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-name="CCTV-5" group-title="IPTV-央视",CCTV-5超清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.177:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="CCTV-5+" group-title="IPTV-央视",CCTV-5+高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.31:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-name="CCTV-6" group-title="IPTV-央视",CCTV-6超清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.178:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.159:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.167:5146
-#EXTINF:-1 tvg-name="CCTV-7" group-title="IPTV-央视",CCTV-7高清测试(CCTV -7军事农业高清)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.138:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.172:5146
-#EXTINF:-1 tvg-name="CCTV-8" group-title="IPTV-央视",CCTV-8超清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.181:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.160:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.168:5146
-#EXTINF:-1 tvg-name="CCTV-9" group-title="IPTV-央视",CCTV-9高清测试
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.135:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.113:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.169:5146
-#EXTINF:-1 tvg-name="CCTV-10" group-title="IPTV-央视",CCTV-10高清测试(CCTV-10科教高清)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.134:5146
-#EXTINF:-1 tvg-name="CCTV-11" group-title="IPTV-央视",CCTV-11高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.238:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.10:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.109:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.170:5146
-#EXTINF:-1 tvg-name="CCTV-12" group-title="IPTV-央视",CCTV-12高清测试
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.136:5146
-#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.188:5146
-#EXTINF:-1 tvg-name="CCTV-13" group-title="IPTV-央视",CCTV-13高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.196:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.161:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清 (CAVS)
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.171:5146
-#EXTINF:-1 tvg-name="CCTV-14" group-title="IPTV-央视",CCTV-14高清测试
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.133:5146
-#EXTINF:-1 tvg-name="CCTV-15" group-title="IPTV-央视",CCTV-15高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.239:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.165:5146
-#EXTINF:-1 tvg-name="CCTV-16" group-title="IPTV-央视",CCTV-16高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.76:5146
-#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.1.121:5146
-#EXTINF:-1 tvg-name="CCTV-17" group-title="IPTV-央视",CCTV-17农业高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.198:5146
-#EXTINF:-1 tvg-name="CGTN" group-title="IPTV-央视",CGTN英语高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.199:5146
-#EXTINF:-1 tvg-name="CGTN Documentary" group-title="IPTV-央视",CGTN Documentary高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.253.43.122:5146
-#EXTINF:-1 tvg-name="CGTN西班牙语" group-title="IPTV-央视",CGTN西班牙语高清
-http://120.237.241.82:4000/udp/239.77.1.17:5146/udp/239.77.0.221:5146
-#EXTINF:-1 tvg-name="CGTN法语" group-title="IPTV-央视",CGTN法语高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.228:5146
-#EXTINF:-1 tvg-name="CGTN阿拉伯语" group-title="IPTV-央视",CGTN阿拉伯语高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.200:5146
-#EXTINF:-1 tvg-name="CGTN俄语" group-title="IPTV-央视",CGTN俄语高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.201:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.5:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.129:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.88:5146
-#EXTINF:-1 tvg-name="湖南卫视" group-title="IPTV-卫视",湖南卫视超清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.127:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.33:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.150:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.89:5146
-#EXTINF:-1 tvg-name="浙江卫视" group-title="IPTV-卫视",浙江卫视超清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.125:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.18:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.149:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.90:5146
-#EXTINF:-1 tvg-name="江苏卫视" group-title="IPTV-卫视",江苏卫视超清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.126:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.218:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.156:5146
-#EXTINF:-1 tvg-name="东方卫视" group-title="IPTV-卫视",东方卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.98:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.92:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.157:5146
-#EXTINF:-1 tvg-name="安徽卫视" group-title="IPTV-卫视",安徽卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.183:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.4:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.151:5146
-#EXTINF:-1 tvg-name="北京卫视" group-title="IPTV-卫视",北京卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.91:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.141:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.182:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.97:5146
-#EXTINF:-1 tvg-name="天津卫视" group-title="IPTV-卫视",天津卫视超清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.131:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.142:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.153:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视高清
-rtp://239.77.0.94:5146
-#EXTINF:-1 tvg-name="山东卫视" group-title="IPTV-卫视",山东卫视超清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.132:5146
-#EXTINF:-1 tvg-name="江西卫视" group-title="IPTV-卫视",江西卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.219:5146
-#EXTINF:-1 tvg-name="江西卫视" group-title="IPTV-卫视",江西卫视高清
-rtp://239.77.0.149:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.93:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.174:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.95:5146
-#EXTINF:-1 tvg-name="湖北卫视" group-title="IPTV-卫视",湖北卫视超清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.128:5146
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.103:5146
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视 高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.123:5146
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="IPTV-卫视",辽宁卫视超清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.161:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.6:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.179:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.93:5146
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="IPTV-卫视",黑龙江卫视超清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.124:5146
-#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.221:5146
-#EXTINF:-1 tvg-name="贵州卫视" group-title="IPTV-卫视",贵州卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.230:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.215:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.159:5146
-#EXTINF:-1 tvg-name="四川卫视" group-title="IPTV-卫视",四川卫视超清 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.163:5146
-#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.229:5146
-#EXTINF:-1 tvg-name="河南卫视" group-title="IPTV-卫视",河南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.17:5146
-#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.37:5146
-#EXTINF:-1 tvg-name="云南卫视" group-title="IPTV-卫视",云南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.100:5146
-#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
-rtp://239.77.1.162:5146
-#EXTINF:-1 tvg-name="重庆卫视" group-title="IPTV-卫视",重庆卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.182:5146
-#EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.214:5146
-#EXTINF:-1 tvg-name="河北卫视" group-title="IPTV-卫视",河北卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.148:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",东南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.104:5146
-#EXTINF:-1 tvg-name="东南卫视" group-title="IPTV-卫视",福建东南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.146:5146
-#EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
-rtp://239.253.43.36:5146
-#EXTINF:-1 tvg-name="广西卫视" group-title="IPTV-卫视",广西卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.139:5146
-#EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.111:5146
-#EXTINF:-1 tvg-name="吉林卫视" group-title="IPTV-卫视",吉林卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.150:5146
-#EXTINF:-1 tvg-name="青海卫视" group-title="IPTV-卫视",青海卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.125:5146
-#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.35:5146
-#EXTINF:-1 tvg-name="海南卫视" group-title="IPTV-卫视",海南卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.101:5146
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="IPTV-卫视",甘肃卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.189:5146
-#EXTINF:-1 tvg-name="三沙卫视" group-title="IPTV-卫视",三沙卫视高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.113:5146
-#EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.18:5146
-#EXTINF:-1 tvg-name="兵器科技" group-title="IPTV-央视网台",兵器科技高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.9:5146
-#EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.19:5146
-#EXTINF:-1 tvg-name="电视指南" group-title="IPTV-央视网台",电视指南高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.10:5146
-#EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.20:5146
-#EXTINF:-1 tvg-name="风云足球" group-title="IPTV-央视网台",风云足球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.14:5146
-#EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.21:5146
-#EXTINF:-1 tvg-name="央视台球" group-title="IPTV-央视网台",央视台球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.11:5146
-#EXTINF:-1 tvg-name="高尔夫网球" group-title="IPTV-央视网台",高尔夫网球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.22:5146
-#EXTINF:-1 tvg-name="高尔夫网球" group-title="IPTV-央视网台",高尔夫网球高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.12:5146
-#EXTINF:-1 tvg-name="女性时尚" group-title="IPTV-央视网台",女性时尚高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.23:5146
-#EXTINF:-1 tvg-name="女性时尚" group-title="IPTV-央视网台",女性时尚高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.8:5146
-#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.24:5146
-#EXTINF:-1 tvg-name="世界地理" group-title="IPTV-央视网台",世界地理高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.7:5146
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.25:5146
-#EXTINF:-1 tvg-name="怀旧剧场" group-title="IPTV-央视网台",怀旧剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.5:5146
-#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.26:5146
-#EXTINF:-1 tvg-name="风云剧场" group-title="IPTV-央视网台",风云剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.16:5146
-#EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.27:5146
-#EXTINF:-1 tvg-name="央视文化精品" group-title="IPTV-央视网台",央视文化精品高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.13:5146
-#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.28:5146
-#EXTINF:-1 tvg-name="第一剧场" group-title="IPTV-央视网台",第一剧场高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.15:5146
-#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.29:5146
-#EXTINF:-1 tvg-name="风云音乐" group-title="IPTV-央视网台",风云音乐高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.6:5146
-#EXTINF:-1 tvg-name="CHC高清电影" group-title="IPTV-央视网台",CHC高清电影
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.27:5146
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="IPTV-数字付费",金鹰卡通高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.164:5146
-#EXTINF:-1 tvg-name="CETV-1" group-title="IPTV-数字付费",CETV-1高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.222:5146
-#EXTINF:-1 tvg-name="中国教育-1" group-title="IPTV-数字付费",中国教育-1高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.200:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.200:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.40:5146
-#EXTINF:-1 tvg-name="CETV-4" group-title="IPTV-数字付费",CETV-4高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.114:5146
-#EXTINF:-1 tvg-name="早期教育" group-title="IPTV-数字付费",早期教育高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.180:5146
-#EXTINF:-1 tvg-name="中国交通" group-title="IPTV-数字付费",中国交通
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.249:5146
-#EXTINF:-1 tvg-name="茶" group-title="IPTV-数字付费",茶
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.15:5146
-#EXTINF:-1 tvg-name="快乐垂钓" group-title="IPTV-数字付费",快乐垂钓
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.145:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.217:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实高清测试
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.160:5146
-#EXTINF:-1 tvg-name="金鹰纪实" group-title="IPTV-数字付费",金鹰纪实超清测试 (CAVS)
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.162:5146
-#EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.216:5146
-#EXTINF:-1 tvg-name="上海纪实" group-title="IPTV-数字付费",上海纪实高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.147:5146
-#EXTINF:-1 tvg-name="生态环境" group-title="IPTV-数字付费",生态环境
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.201:5146
-#EXTINF:-1 tvg-name="车迷" group-title="IPTV-数字付费",车迷频道
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.203:5146
-#EXTINF:-1 tvg-name="求索纪录" group-title="IPTV-数字付费",求索纪录高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.21:5146
-#EXTINF:-1 tvg-name="求索生活" group-title="IPTV-数字付费",求索生活高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.153:5146
-#EXTINF:-1 tvg-name="武术世界" group-title="IPTV-数字付费",武术世界高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.108:5146
-#EXTINF:-1 tvg-name="文物宝库" group-title="IPTV-数字付费",文物宝库高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.120:5146
-#EXTINF:-1 tvg-name="天元围棋" group-title="IPTV-数字付费",天元围棋
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.98:5146
-#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.0.176:5146
-#EXTINF:-1 tvg-name="IPTV爱体育" group-title="IPTV-IPTV频道",爱体育高清
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.116:5146
-#EXTINF:-1,九屏同播
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.234:5146
-#EXTINF:-1,四屏同播
-http://sslsz.oceaniwork.com:4022/udp/239.77.1.107:5146
-#EXTINF:-1,百事通高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.119:5146
-#EXTINF:-1,百事通高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.118:5146
-#EXTINF:-1,百事通高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.117:5146
-#EXTINF:-1,百事通高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.116:5146
-#EXTINF:-1,百事通高清
-http://sslsz.oceaniwork.com:4022/udp/239.253.43.115:5146
-#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
 
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://info.hkanimal.com/png_logo/81.png" group-title="無綫電視", Jade 翡翠台[直播]
-https://live.hkdvb.com/hls/live/81.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="無綫電視", TVB PLUS[直播]
-https://live.hkdvb.com/hls/live/82.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://info.hkanimal.com/png_logo/83.png" group-title="無綫電視", News 新聞台[直播]
-https://live.hkdvb.com/hls/live/83.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://info.hkanimal.com/png_logo/84.png" group-title="無綫電視", Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://info.hkanimal.com/png_logo/85.png" group-title="無綫電視", 鳳凰香港台[直播]
-https://live.hkdvb.com/hls/live/85.m3u8?token=273343280049736
 
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="奇妙電視", HOY TV[直播]
-https://live.hkdvb.com/hls/live/77.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://info.hkanimal.com/png_logo/78.png" group-title="奇妙電視", HOY TV 資訊台[直播]
-https://live.hkdvb.com/hls/live/78.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://info.hkanimal.com/png_logo/76.png" group-title="奇妙電視", HOY 國際財經台[直播]
-https://live.hkdvb.com/hls/live/76.m3u8?token=273343280049736
 
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://info.hkanimal.com/png_logo/99.png" group-title="Now Player", ViuTV[直播]
-https://live.hkdvb.com/hls/live/99.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://info.hkanimal.com/png_logo/96.png" group-title="Now Player", ViuTV Six[直播]
-https://live.hkdvb.com/hls/live/96.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://info.hkanimal.com/png_logo/332.png" group-title="Now Player", Now NEWS 新聞台[直播]
-https://live.hkdvb.com/hls/live/332.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://info.hkanimal.com/png_logo/630.png" group-title="Now Player", Now Sports Prime[直播]
-https://live.hkdvb.com/hls/live/630.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="618" tvg-name="Now Sports 618" tvg-logo="https://info.hkanimal.com/png_logo/618.png" group-title="Now Player", Now Sports 618[直播]
-https://live.hkdvb.com/hls/live/618.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="619" tvg-name="Now Sports 619" tvg-logo="https://info.hkanimal.com/png_logo/619.png" group-title="Now Player", Now Sports 619[直播]
-https://live.hkdvb.com/hls/live/619.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="688" tvg-name="Now Sports 688" tvg-logo="https://info.hkanimal.com/png_logo/688.png" group-title="Now Player", Now Sports 688[直播]
-https://live.hkdvb.com/hls/live/688.m3u8?token=273343280049736
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://info.hkanimal.com/png_logo/31.png" group-title="香港電台", 港台電視 31[直播]
-https://live.hkdvb.com/hls/live/31.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://info.hkanimal.com/png_logo/32.png" group-title="香港電台", 港台電視 32[直播]
-https://live.hkdvb.com/hls/live/32.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://info.hkanimal.com/png_logo/33.png" group-title="香港電台", CCTV-1  港澳版[直播]
-https://live.hkdvb.com/hls/live/33.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://info.hkanimal.com/png_logo/33.png" group-title="香港電台", CGTN Documentary[直播]
-https://live.hkdvb.com/hls/live/34.m3u8?token=273343280049736
-#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://info.hkanimal.com/png_logo/33.png" group-title="香港電台", CGTN English[直播]
-https://live.hkdvb.com/hls/live/35.m3u8?token=273343280049736
+
+
+
+
+
+
+
+
 
 
 
 
 #EXTINF:-1 group-title="臺灣 Taiwan",AXN
-https://phdown.serv00.net/Smartv.php?id=axn_twn
+https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",CINEMAX
-https://phdown.serv00.net/Smartv.php?id=cinemax_twn
+https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",EYE戲劇
-https://phdown.serv00.net/Smartv.php?id=eyetvxiju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",EYE旅遊
-https://phdown.serv00.net/Smartv.php?id=eyetvtravel_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",HBO
-https://phdown.serv00.net/Smartv.php?id=hbohd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",HBO Family
-https://phdown.serv00.net/Smartv.php?id=fyi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",好萊塢電影台
-https://phdown.serv00.net/Smartv.php?id=hollywoodmovies_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",MTV Live
-https://phdown.serv00.net/Smartv.php?id=mtvhd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",TLC旅遊生活
-https://phdown.serv00.net/Smartv.php?id=tlc_twn
+https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",東森新聞
-https://phdown.serv00.net/Smartv.php?id=ettvnews
+https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 #EXTINF:-1 group-title="臺灣 Taiwan",TVBS HD
-https://phdown.serv00.net/Smartv.php?id=tvbs
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1 group-title="臺灣 Taiwan",TVBS新聞台
-https://phdown.serv00.net/Smartv.php?id=tvbs_n
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 #EXTINF:-1 group-title="臺灣 Taiwan",TVBS歡樂台
-https://phdown.serv00.net/Smartv.php?id=tvbshuanle_twn
+https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",三立台灣台
-https://phdown.serv00.net/Smartv.php?id=sanlitaiwan
+https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 #EXTINF:-1 group-title="臺灣 Taiwan",三立戲劇台
-https://phdown.serv00.net/Smartv.php?id=sanlixiju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",三立綜合台
-https://phdown.serv00.net/Smartv.php?id=sanlizhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 #EXTINF:-1 group-title="臺灣 Taiwan",中天亞洲台
-https://phdown.serv00.net/Smartv.php?id=ctiasia_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",中天娱樂
-https://phdown.serv00.net/Smartv.php?id=ctient
+https://smart.pendy.dpdns.org/Smart.php?id=ctient
 #EXTINF:-1 group-title="臺灣 Taiwan",中天新聞HD
-https://phdown.serv00.net/Smartv.php?id=ctinews
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1 group-title="臺灣 Taiwan",中天綜合
-https://phdown.serv00.net/Smartv.php?id=ctizhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 #EXTINF:-1 group-title="臺灣 Taiwan",亞洲旅遊台
-https://phdown.serv00.net/Smartv.php?id=asiatravel_twn
+https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",亞洲美食
-https://phdown.serv00.net/Smartv.php?id=afc_twn
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",八大戲劇
-https://phdown.serv00.net/Smartv.php?id=badadrama
+https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 #EXTINF:-1 group-title="臺灣 Taiwan",八大第一
-https://phdown.serv00.net/Smartv.php?id=badafirst
+https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 #EXTINF:-1 group-title="臺灣 Taiwan",八大綜合
-https://phdown.serv00.net/Smartv.php?id=badazhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 #EXTINF:-1 group-title="臺灣 Taiwan",公視
-https://phdown.serv00.net/Smartv.php?id=ctv_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ctv_taiwan
 #EXTINF:-1 group-title="臺灣 Taiwan",民視
-https://phdown.serv00.net/Smartv.php?id=ftvhd_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1 group-title="臺灣 Taiwan",民視第一台
-https://phdown.serv00.net/Smartv.php?id=lunghuajingdian_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",民視台灣台
-https://phdown.serv00.net/Smartv.php?id=ftvtaiwan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",民視新聞台
-https://phdown.serv00.net/Smartv.php?id=ftvnew_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1 group-title="臺灣 Taiwan",台視
-https://phdown.serv00.net/Smartv.php?id=ttv_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 #EXTINF:-1 group-title="臺灣 Taiwan",台視新聞台
-https://phdown.serv00.net/Smartv.php?id=ttvnews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",中視
-https://phdown.serv00.net/Smartv.php?id=zhongshihd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",中視新聞台
-https://phdown.serv00.net/Smartv.php?id=zhongshinews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",中視經典
-https://phdown.serv00.net/Smartv.php?id=zhongshi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshi_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",華視
-https://phdown.serv00.net/Smartv.php?id=ctshd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",華藝綜合
 https://phdown.serv00.net/Smartv.php?id=weishichinese_twn
 #EXTINF:-1 group-title="臺灣 Taiwan",大愛一台
@@ -1030,107 +524,107 @@ https://phdown.serv00.net/Smartv.php?id=Rockaction
 #EXTINF:-1 group-title="印尼 Indonesia",Rock Entertainment
 https://phdown.serv00.net/Smartv.php?id=Rockentertain
 #EXTINF:-1 group-title="香港 Hongkong",J2(備用)
-https://phdown.serv00.net/Smartv.php?id=j2_hkdavid
+https://smart.pendy.dpdns.org/Smart.php?id=j2_hkdavid
 #EXTINF:-1 group-title="香港 Hongkong",J2
-https://phdown.serv00.net/Smartv.php?id=j2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
 #EXTINF:-1 group-title="香港 Hongkong",RHK 31
-https://phdown.serv00.net/Smartv.php?id=rhk31_twn
+https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
 #EXTINF:-1 group-title="香港 Hongkong",RHK 32
-https://phdown.serv00.net/Smartv.php?id=rhk32_twn
+https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
 #EXTINF:-1 group-title="香港 Hongkong",TVB 星河
-https://phdown.serv00.net/Smartv.php?id=tvbxinhe_twn
+https://smart.pendy.dpdns.org/Smart.php?id=tvbxinhe_twn
 #EXTINF:-1 group-title="香港 Hongkong",VIUTV1
-https://phdown.serv00.net/Smartv.php?id=viu1_twn
+https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
 #EXTINF:-1 group-title="香港 Hongkong",Viu TV 69
-https://phdown.serv00.net/Smartv.php?id=viutv69_hkdavid
+https://smart.pendy.dpdns.org/Smart.php?id=viutv69_hkdavid
 #EXTINF:-1 group-title="香港 Hongkong",Viu6
-https://phdown.serv00.net/Smartv.php?id=viusix_twn
+https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
 #EXTINF:-1 group-title="香港 Hongkong",iNews 新聞台
-https://phdown.serv00.net/Smartv.php?id=inews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
 #EXTINF:-1 group-title="香港 Hongkong",無線財經資訊台
-https://phdown.serv00.net/Smartv.php?id=tvbcaijing_twn
+https://smart.pendy.dpdns.org/Smart.php?id=tvbcaijing_twn
 #EXTINF:-1 group-title="香港 Hongkong",珍珠台(備用)
-https://phdown.serv00.net/Smartv.php?id=pearl_hkdavid
+https://smart.pendy.dpdns.org/Smart.php?id=pearl_hkdavid
 #EXTINF:-1 group-title="香港 Hongkong",珍珠台
-https://phdown.serv00.net/Smartv.php?id=pearl_twn
+https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
 #EXTINF:-1 group-title="香港 Hongkong",翡翠台(備用)
-https://phdown.serv00.net/Smartv.php?id=jade_mike
+https://smart.pendy.dpdns.org/Smart.php?id=jade_mike
 #EXTINF:-1 group-title="香港 Hongkong",翡翠台
-https://phdown.serv00.net/Smartv.php?id=jade_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
 #EXTINF:-1 group-title="香港 Hongkong",鳳凰衛視
-https://phdown.serv00.net/Smartv.php?id=phoenixtv_hd
+https://smart.pendy.dpdns.org/Smartv.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="香港 Hongkong",鳳凰資訊
-https://phdown.serv00.net/Smartv.php?id=phoenixinfo_hd
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="香港 Hongkong",鳳凰香港
-https://phdown.serv00.net/Smartv.php?id=hkphoenix_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 #EXTINF:-1 group-title="中國 China",CCTV-1
-https://phdown.serv00.net/Smartv.php?id=cctv1
+https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 #EXTINF:-1 group-title="中國 China",CCTV-2
-https://phdown.serv00.net/Smartv.php?id=cctv2
+https://smart.pendy.dpdns.org/Smart.php?id=cctv2
 #EXTINF:-1 group-title="中國 China",CCTV-3
-https://phdown.serv00.net/Smartv.php?id=cctv3
+https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 #EXTINF:-1 group-title="中國 China",CCTV-4
-https://phdown.serv00.net/Smartv.php?id=cctv4
+https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 #EXTINF:-1 group-title="中國 China",CCTV-4
-https://phdown.serv00.net/Smartv.php?id=Cctv4
+https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
 #EXTINF:-1 group-title="中國 China",CCTV-5
-https://phdown.serv00.net/Smartv.php?id=cctv5
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 #EXTINF:-1 group-title="中國 China",CCTV-5+
-https://phdown.serv00.net/Smartv.php?id=cctv5plus
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 #EXTINF:-1 group-title="中國 China",CCTV-6
-https://phdown.serv00.net/Smartv.php?id=cctv6
+https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 #EXTINF:-1 group-title="中國 China",CCTV-7
-https://phdown.serv00.net/Smartv.php?id=cctv7
+https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 #EXTINF:-1 group-title="中國 China",CCTV-8
-https://phdown.serv00.net/Smartv.php?id=cctv8hd
+https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 #EXTINF:-1 group-title="中國 China",CCTV-9
-https://phdown.serv00.net/Smartv.php?id=cctv9hd
+https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
 #EXTINF:-1 group-title="中國 China",CCTV-10
-https://phdown.serv00.net/Smartv.php?id=cctv10hd
+https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 #EXTINF:-1 group-title="中國 China",CCTV-11
-https://phdown.serv00.net/Smartv.php?id=cctv11
+https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 #EXTINF:-1 group-title="中國 China",CCTV-12
-https://phdown.serv00.net/Smartv.php?id=cctv12
+https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 #EXTINF:-1 group-title="中國 China",CCTV-13
-https://phdown.serv00.net/Smartv.php?id=cctv13
+https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 #EXTINF:-1 group-title="中國 China",CCTV-14
-https://phdown.serv00.net/Smartv.php?id=cctv14
+https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 #EXTINF:-1 group-title="中國 China",CCTV-15
-https://phdown.serv00.net/Smartv.php?id=cctv15
+https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 #EXTINF:-1 group-title="中國 China",CCTV-16
-https://phdown.serv00.net/Smartv.php?id=cctv16
+https://smart.pendy.dpdns.org/Smart.php?id=cctv16
 #EXTINF:-1 group-title="中國 China",CCTV-17
-https://phdown.serv00.net/Smartv.php?id=cctv17
+https://smart.pendy.dpdns.org/Smart.php?id=cctv17
 #EXTINF:-1 group-title="中國 China",湖南衛視
-https://phdown.serv00.net/Smartv.php?id=hunan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
 #EXTINF:-1 group-title="中國 China",江蘇衛視
-https://phdown.serv00.net/Smartv.php?id=jiangsu_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
 #EXTINF:-1 group-title="中國 China",深圳衛視
-https://phdown.serv00.net/Smartv.php?id=shenzhen
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 #EXTINF:-1 group-title="中國 China",大灣區衛視
-https://phdown.serv00.net/Smartv.php?id=nanfang_twn
+https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
 #EXTINF:-1 group-title="中國 China",廣東衛視
-https://phdown.serv00.net/Smartv.php?id=guangdongweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 group-title="中國 China",北京衛視
-https://phdown.serv00.net/Smartv.php?id=beijing
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
 #EXTINF:-1 group-title="中國 China",廣東珠江
-https://phdown.serv00.net/Smartv.php?id=zhujiang
+https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 #EXTINF:-1 group-title="中國 China",廣西衛視
-https://phdown.serv00.net/Smartv.php?id=guangxi
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 #EXTINF:-1 group-title="中國 China",湖北衛視
-https://phdown.serv00.net/Smartv.php?id=hubei
+https://smart.pendy.dpdns.org/Smart.php?id=hubei
 #EXTINF:-1 group-title="中國 China",四川衛視
-https://phdown.serv00.net/Smartv.php?id=sichuan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
 #EXTINF:-1 group-title="中國 China",鳳凰衛視
-https://phdown.serv00.net/Smartv.php?id=phoenixtv_hd
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 #EXTINF:-1 group-title="中國 China",東方衛視
-https://phdown.serv00.net/Smartv.php?id=dongfangweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 group-title="中國 China",CGTN
-https://phdown.serv00.net/Smartv.php?id=CGTN
+https://smart.pendy.dpdns.org/Smart.php?id=CGTN
 #EXTINF:-1 group-title="中國 China",鳳凰資訊
-https://phdown.serv00.net/Smartv.php?id=phoenixinfo_hd
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 #EXTINF:-1 group-title="體育 Sports",Supersports 1
-https://phdown.serv00.net/Smartv.php?id=Assp1
+https://smart.pendy.dpdns.org/Smart.php?id=Assp1
 #EXTINF:-1 group-title="體育 Sports",Supersports 1(備用)
 https://phdown.serv00.net/Smartv.php?id=go_assp1
 #EXTINF:-1 group-title="體育 Sports",Supersportq 1(備用2)
