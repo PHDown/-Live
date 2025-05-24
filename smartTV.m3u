@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:-1 group-title="歌手2025",《1》
+https://33-cdn.cdnyysd.me/content/zy-gs2025-20250516-shd-01.mp4/index.m3u8?st=6WvsPo7PeCs2zAaobFoj_A&e=1748087482#https://t20m.nboku.com/20250516/l39mbSWw/index.m3u8?sign=olKNwfoFqmxyz%252FpDTNlZJbKYpwQYCNE7j1%252BRTg1tpr4%253D
+#EXTINF:-1 group-title="歌手2025",《2》
+https://33-cdn.cdnyysd.me/content/zy-gs2025-20250523-shd-02.mp4/index.m3u8?st=icxtLWMiGN3_OyQ4YC_ugg&e=1748087601#https://t20m.nboku.com/20250523/1YZkVXp2/index.m3u8?sign=LBsZvUy959%252BqfjY0ymwo9SEyiRMarMxWvoXfNYClekk%253D
 
 #EXTINF:-1 group-title="歌手2025",《歌手2025》第二期·主机位
 https://www.freetv.top/geshou/954003980.m3u8
